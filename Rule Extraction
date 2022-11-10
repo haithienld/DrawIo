@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T08:04:47.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5ZsFOaiDyX74TPRL2ije" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T19:44:29.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3x3eZ9Gdp0YtzeQAq-j-" version="20.5.3" type="github">
   <diagram id="IBCcHmbcvghxkNvltkj-" name="Page-1">
-    <mxGraphModel dx="1422" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,7 +500,7 @@
             <mxRectangle x="680" y="680" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RDsEPbD8od6uWD9Hud_F-79" value="External Variables: (Exists and Not Exists)&amp;nbsp;Ex_v&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;sub style=&quot;font-size: 13px;&quot;&gt;i &amp;nbsp;&lt;/sub&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;( i &lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;∈ &amp;nbsp;N )&lt;/font&gt;&lt;br&gt;	View-Of-Camera: Left, Right&lt;br&gt;	Object: ball, phone, bottle, Steering Wheel " style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="RDsEPbD8od6uWD9Hud_F-76" vertex="1">
+        <mxCell id="RDsEPbD8od6uWD9Hud_F-79" value="External Variables: (Exists and Not Exists)&amp;nbsp;Ex_v&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;sub style=&quot;font-size: 13px;&quot;&gt;i &amp;nbsp;&lt;/sub&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;( i &lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;∈ &amp;nbsp;N )&lt;/font&gt;&lt;br&gt; View-Of-Camera: Left, Right&lt;br&gt; Object: ball, phone, bottle, Steering Wheel " style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="RDsEPbD8od6uWD9Hud_F-76" vertex="1">
           <mxGeometry x="7" y="39" width="400" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RDsEPbD8od6uWD9Hud_F-80" value="Functions-based Variables: Ft_v&lt;sub style=&quot;font-size: 13px;&quot;&gt;i &amp;nbsp;&lt;/sub&gt;( i&amp;nbsp;∈ &amp;nbsp;N )&lt;br&gt;Ft_v&lt;sub&gt;1&lt;/sub&gt; : f&lt;sub&gt;D&lt;/sub&gt;(v1,v2,v3) where v1,v2,v3&amp;nbsp;∈ &amp;nbsp;( Ex_v&lt;sub style=&quot;font-size: 13px;&quot;&gt;i &lt;/sub&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;or&lt;/span&gt;&lt;sub style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;&lt;/sub&gt;In_v&lt;sub style=&quot;font-size: 13px;&quot;&gt;i&amp;nbsp;&lt;/sub&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;)&lt;br&gt;&lt;/span&gt;Ft_v&lt;sub&gt;&lt;font size=&quot;1&quot;&gt;2&lt;/font&gt;&amp;nbsp;&lt;/sub&gt;: f&lt;sub&gt;A&lt;/sub&gt;(v1,v2) where v1,v2 ∈ &amp;nbsp;( Ex_v&lt;sub style=&quot;font-size: 13px;&quot;&gt;i&amp;nbsp;&lt;/sub&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;or&lt;/span&gt;&lt;sub style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;&lt;/sub&gt;In_v&lt;sub style=&quot;font-size: 13px;&quot;&gt;i&amp;nbsp;&lt;/sub&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;)&lt;br&gt;&lt;/span&gt;Ft_v&lt;font size=&quot;1&quot;&gt;3&lt;/font&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;: f&lt;sub&gt;RL&lt;/sub&gt;(v1,v2) where v1,v2 ∈ &amp;nbsp;( Ex_v&lt;sub style=&quot;font-size: 13px;&quot;&gt;i&amp;nbsp;&lt;/sub&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;or&lt;/span&gt;&lt;sub style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;&lt;/sub&gt;In_v&lt;sub style=&quot;font-size: 13px;&quot;&gt;i&amp;nbsp;&lt;/sub&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;.......&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="RDsEPbD8od6uWD9Hud_F-76" vertex="1">
@@ -1557,94 +1557,184 @@
         <mxCell id="XsXcCt8CnN3bADKYXqCU-336" value="Image Dataset" style="swimlane;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="341" y="1780" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-1" target="p5sBPbooInytNdh-gHBw-2">
+        <mxCell id="p5sBPbooInytNdh-gHBw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="p5sBPbooInytNdh-gHBw-1" target="p5sBPbooInytNdh-gHBw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Image&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 14px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Image&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 14px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1160" y="1740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-2" target="p5sBPbooInytNdh-gHBw-4">
+        <mxCell id="p5sBPbooInytNdh-gHBw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="p5sBPbooInytNdh-gHBw-2" target="p5sBPbooInytNdh-gHBw-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;skeleton information&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 14px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-2" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;skeleton information&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 14px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1360" y="1740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-4" target="p5sBPbooInytNdh-gHBw-8">
+        <mxCell id="p5sBPbooInytNdh-gHBw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p5sBPbooInytNdh-gHBw-4" target="p5sBPbooInytNdh-gHBw-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1760" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;skeleton-based&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;HAR model&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 14px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-4" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;skeleton-based&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;HAR model&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: -webkit-standard; font-size: 14px; font-weight: 400;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1560" y="1740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-8" target="p5sBPbooInytNdh-gHBw-16">
+        <mxCell id="p5sBPbooInytNdh-gHBw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" source="p5sBPbooInytNdh-gHBw-8" target="p5sBPbooInytNdh-gHBw-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-8" target="p5sBPbooInytNdh-gHBw-22">
+        <mxCell id="p5sBPbooInytNdh-gHBw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" source="p5sBPbooInytNdh-gHBw-8" target="p5sBPbooInytNdh-gHBw-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-8" value="&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Top 2 actions &lt;br&gt;with highest score&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-8" value="&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Top 2 actions &lt;br&gt;with highest score&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1760" y="1740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-16" target="p5sBPbooInytNdh-gHBw-18">
+        <mxCell id="p5sBPbooInytNdh-gHBw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" source="p5sBPbooInytNdh-gHBw-16" target="p5sBPbooInytNdh-gHBw-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-16" value="if top 1 and top 2 are not similar actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-16" value="if top 1 and top 2 are not similar actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1960" y="1740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-18" value="&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Output&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-18" value="&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Output&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2160" y="1740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-22" target="p5sBPbooInytNdh-gHBw-24">
+        <mxCell id="p5sBPbooInytNdh-gHBw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" source="p5sBPbooInytNdh-gHBw-22" target="p5sBPbooInytNdh-gHBw-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-22" value="if top 1 and top 2 are similar actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-22" value="if top 1 and top 2 are similar actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1760" y="1840" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-24" target="p5sBPbooInytNdh-gHBw-18">
+        <mxCell id="p5sBPbooInytNdh-gHBw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" source="p5sBPbooInytNdh-gHBw-24" target="p5sBPbooInytNdh-gHBw-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-24" value="Rule-based filters" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="p5sBPbooInytNdh-gHBw-24" value="Rule-based filters" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1960" y="1840" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-27" target="p5sBPbooInytNdh-gHBw-28">
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;fontSize=16;fontStyle=1" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-32" target="p5sBPbooInytNdh-gHBw-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-27" value="&lt;span style=&quot;font-weight: 400; font-size: 14px;&quot;&gt;Top 2 actions &lt;br&gt;with highest score&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1;startSize=23;verticalAlign=middle;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1180" width="200" height="60" as="geometry" />
+        <mxCell id="p5sBPbooInytNdh-gHBw-32" value="&lt;div style=&quot;line-height: 150%; margin-top: 0pt; margin-bottom: 0pt; margin-right: 0in; text-indent: -0.25in; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px;&quot;&gt;(1)&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;∃(&quot;camera&quot;, &quot;phone&quot;, &quot;right-hand&quot;) &lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;View&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;(&quot;camera&quot;) = &quot;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;right-side&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;&quot;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102); font-style: italic;&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%; margin-top: 0pt; margin-bottom: 0pt; margin-right: 0in; text-indent: -0.25in; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;Distance&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;(&quot;phone&quot;, &quot;right-hand&quot;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;&amp;lt;&amp;nbsp;10&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;indicate&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -0.25in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;the TEXR action&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%; margin-top: 0pt; margin-bottom: 0pt; margin-right: 0in; text-indent: -0.25in; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 16px;&quot;&gt;(2)&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;∃(&quot;camera&quot;, &quot;hand&quot;, &quot;hip&quot;, &quot;right-hand&quot;) &lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;View&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;(&quot;camera&quot;) = &quot;right-side&quot; &lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;and&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%; margin-top: 0pt; margin-bottom: 0pt; margin-right: 0in; text-indent: -0.25in; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;Angle&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;&amp;nbsp;(&quot;right-hand&quot;, &quot;hip&quot;, &quot;head&quot;)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;&amp;lt;&amp;nbsp;90 &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;indicates&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;the TEXR action&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1600" y="520" width="680" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-28" target="p5sBPbooInytNdh-gHBw-30">
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;fontStyle=1" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-44" target="PSnX5Ct-FLY5wItLYMx2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-28" value="if top 1 and top 2 are similar actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1180" width="200" height="60" as="geometry" />
+        <mxCell id="p5sBPbooInytNdh-gHBw-44" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;div style=&quot;line-height: 150%; margin: 0pt 0in 0pt 0.19in; text-indent: -0.19in; direction: ltr; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;text-indent: -0.19in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;View&lt;/span&gt;&lt;span style=&quot;text-indent: -0.19in; background-color: initial; font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;(&quot;camera&quot;)&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%; margin: 0pt 0in 0pt 0.19in; text-indent: -0.19in; direction: ltr; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;Distance&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;(&quot;phone&quot;, &quot;right-hand&quot;)&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%; margin: 0pt 0in 0pt 0.19in; text-indent: -0.19in; direction: ltr; unicode-bidi: embed; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(0, 176, 80);&quot;&gt;Angle&lt;/span&gt;&lt;span style=&quot;font-size: 16px; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; color: rgb(102, 102, 102);&quot;&gt;&amp;nbsp;(&quot;right-hand&quot;, &quot;hip&quot;, &quot;head&quot;)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;align=center;verticalAlign=middle;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1600" y="700" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-30" target="p5sBPbooInytNdh-gHBw-35">
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-5" target="PSnX5Ct-FLY5wItLYMx2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-30" value="The major difference between 2 actions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="1180" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-32" target="p5sBPbooInytNdh-gHBw-39">
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;endArrow=none;endFill=0;dashed=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-5" target="p5sBPbooInytNdh-gHBw-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-32" value="Human commonsense&amp;nbsp;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1280" width="200" height="60" as="geometry" />
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-5" value="User-defined commonsense&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="540" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="1180" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="p5sBPbooInytNdh-gHBw-39" target="p5sBPbooInytNdh-gHBw-42">
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-6" target="PSnX5Ct-FLY5wItLYMx2-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-39" value="Determine the variables" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2080" y="1280" width="200" height="60" as="geometry" />
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;endArrow=none;endFill=0;dashed=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-6" target="p5sBPbooInytNdh-gHBw-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-42" value="Rules Extraction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="1280" width="200" height="60" as="geometry" />
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-6" value="Extracting the list patterns" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2320" y="700" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p5sBPbooInytNdh-gHBw-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Human commonsense for the SFD action and the TEXR action:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(102, 102, 102);&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: Helvetica;&quot;&gt;1. ∃(&quot;right-side&quot;, &quot;phone&quot;, &quot;right-hand&quot;) and Distance(&quot;phone&quot;, &quot;right-hand&quot;) &amp;lt; threshold1 indicate the TEXR action&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(102, 102, 102);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(102, 102, 102);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;2. ∃(&quot;right-side&quot;, &quot;hand&quot;, &quot;hip&quot;, &quot;right-hand&quot;) and Angle (&quot;right-hand&quot;, &quot;hip&quot;, &quot;head&quot;) &amp;lt; threshold2 indicate the TEXR action&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1380" width="480" height="170" as="geometry" />
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;endArrow=none;endFill=0;dashed=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-8" target="PSnX5Ct-FLY5wItLYMx2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-8" value="Consider information of&lt;br style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 16px;&quot;&gt;&quot;view of camera&quot;, &quot;phone&quot;, &quot;right-hand&quot;, &quot;hip&quot;, &quot;head&quot;&lt;/font&gt; &lt;br style=&quot;font-size: 16px;&quot;&gt;can be extracted from the dataset of two similar actions&lt;br style=&quot;font-size: 16px;&quot;&gt;(position in the image)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#000000;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1660" y="900" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;fontSize=16;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-9" target="PSnX5Ct-FLY5wItLYMx2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;fontSize=16;fontStyle=1" vertex="1" connectable="0" parent="PSnX5Ct-FLY5wItLYMx2-11">
+          <mxGeometry x="-0.4091" y="-2" relative="1" as="geometry">
+            <mxPoint x="15" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#00CC00;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-9" target="PSnX5Ct-FLY5wItLYMx2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-9" value="&lt;span style=&quot;font-family: Verdana; font-size: 16px;&quot;&gt;Can exploit&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Verdana; font-size: 16px;&quot;&gt;the user-defined patterns &lt;br style=&quot;font-size: 16px;&quot;&gt;from&lt;/span&gt;&lt;span style=&quot;font-family: Verdana; font-size: 16px;&quot;&gt;&amp;nbsp;dataset or not?&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontColor=#000000;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2240" y="880" width="400" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=16;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-10" target="p5sBPbooInytNdh-gHBw-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1570" y="1145" />
+              <mxPoint x="1570" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Remove&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2320" y="1120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#00CC00;endArrow=none;endFill=0;dashed=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-22" target="PSnX5Ct-FLY5wItLYMx2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-22" target="PSnX5Ct-FLY5wItLYMx2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=16;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-22" target="PSnX5Ct-FLY5wItLYMx2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;How to extract&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2720" y="920" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 16px;&quot;&gt;view-of-camera&lt;/font&gt;: from the user setting&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 16px;&quot;&gt;phone&lt;/font&gt;:&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 16px;&quot;&gt; &lt;/font&gt;from object detection model&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 16px;&quot;&gt;&quot;right-hand&quot;,&quot;head&quot;,&quot;hip&quot;&lt;/font&gt;: from pose estimation model&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3040" y="890" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-26" target="PSnX5Ct-FLY5wItLYMx2-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Building new dataset&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2720" y="760" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontSize=16;fontColor=#000000;endArrow=none;endFill=0;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-32" target="PSnX5Ct-FLY5wItLYMx2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-32" value="Image Dataset of two actions" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2720" y="1120" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-38" target="PSnX5Ct-FLY5wItLYMx2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-38" value="Using Tree Decision Model" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2720" y="600" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-40" target="PSnX5Ct-FLY5wItLYMx2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-40" value="Rule Extraction Module" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="445" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-42" target="PSnX5Ct-FLY5wItLYMx2-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-42" value="Test with new dataset" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3040" y="445" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-47" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-44" target="PSnX5Ct-FLY5wItLYMx2-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;fontColor=#000000;endArrow=classic;endFill=1;fontStyle=1" edge="1" parent="1" source="PSnX5Ct-FLY5wItLYMx2-44" target="PSnX5Ct-FLY5wItLYMx2-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3330" y="645" />
+              <mxPoint x="3330" y="400" />
+              <mxPoint x="2440" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-49" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#000000;fontStyle=1" vertex="1" connectable="0" parent="PSnX5Ct-FLY5wItLYMx2-48">
+          <mxGeometry x="0.0506" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-44" value="Satisfy" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3040" y="605" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSnX5Ct-FLY5wItLYMx2-46" value="Finish" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="750" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
