@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T05:20:11.902Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-AjzHvcYGvxyFOTW_mIn" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T07:23:52.410Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7NcXh2HyITeqyhdhH1fb" version="21.2.2" type="github">
   <diagram id="IBCcHmbcvghxkNvltkj-" name="Page-1">
-    <mxGraphModel dx="1362" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2270" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2478,10 +2478,10 @@
         <mxCell id="AQbjn4_iT5BA5T-hejYW-1" value="Dataset" style="whiteSpace=wrap;html=1;fontStyle=1;startSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="280" y="5480" width="241" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AQbjn4_iT5BA5T-hejYW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="AQbjn4_iT5BA5T-hejYW-2" target="AQbjn4_iT5BA5T-hejYW-23" edge="1">
+        <mxCell id="AQbjn4_iT5BA5T-hejYW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontStyle=0" parent="1" source="AQbjn4_iT5BA5T-hejYW-2" target="AQbjn4_iT5BA5T-hejYW-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQbjn4_iT5BA5T-hejYW-2" value="Observing the model on the independent dataset" style="whiteSpace=wrap;html=1;fontStyle=1;startSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="AQbjn4_iT5BA5T-hejYW-2" value="Observing the model on the independent dataset" style="whiteSpace=wrap;html=1;fontStyle=0;startSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1080" y="5480" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQbjn4_iT5BA5T-hejYW-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-022-05112-2/MediaObjects/41598_2022_5112_Fig1_HTML.png;" parent="1" vertex="1">
@@ -2522,21 +2522,21 @@
         <mxCell id="AQbjn4_iT5BA5T-hejYW-17" value="Preprocessing" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="5720" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sUTBR4uffKl3oVc6j401-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AQbjn4_iT5BA5T-hejYW-23" target="AQbjn4_iT5BA5T-hejYW-35" edge="1">
+        <mxCell id="sUTBR4uffKl3oVc6j401-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="1" source="AQbjn4_iT5BA5T-hejYW-23" target="AQbjn4_iT5BA5T-hejYW-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1400" y="5640" />
+              <mxPoint x="1440" y="5640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="AQbjn4_iT5BA5T-hejYW-23" target="Zlmt97NIkyLn-7oZ_XTX-1">
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="AQbjn4_iT5BA5T-hejYW-23" target="Zlmt97NIkyLn-7oZ_XTX-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="998" y="5640" />
+              <mxPoint x="960" y="5640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AQbjn4_iT5BA5T-hejYW-23" value="Estimating the performace of the model" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="AQbjn4_iT5BA5T-hejYW-23" value="Estimating the performace of the model" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1080" y="5600" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQbjn4_iT5BA5T-hejYW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="AQbjn4_iT5BA5T-hejYW-25" target="AQbjn4_iT5BA5T-hejYW-28" edge="1">
@@ -2559,32 +2559,68 @@
         <mxCell id="AQbjn4_iT5BA5T-hejYW-32" value="Evaluate" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="439" y="6000" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_z9FHIuQY-QQkrB0wW5x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="AQbjn4_iT5BA5T-hejYW-35" target="_z9FHIuQY-QQkrB0wW5x-2" edge="1">
+        <mxCell id="_z9FHIuQY-QQkrB0wW5x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontStyle=0" parent="1" source="AQbjn4_iT5BA5T-hejYW-35" target="_z9FHIuQY-QQkrB0wW5x-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQbjn4_iT5BA5T-hejYW-35" value="Extracting the actions that the model recognizes with lower accuracy above threshold x ( Default x=85%)" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1238" y="5720" width="322" height="80" as="geometry" />
+        <mxCell id="AQbjn4_iT5BA5T-hejYW-35" value="Extracting actions that the model recognizes with lower accuracy above threshold x &lt;br&gt;(Default x=85%)" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="5720" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_z9FHIuQY-QQkrB0wW5x-2" target="Zlmt97NIkyLn-7oZ_XTX-3">
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="_z9FHIuQY-QQkrB0wW5x-2" target="Zlmt97NIkyLn-7oZ_XTX-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="_z9FHIuQY-QQkrB0wW5x-2" target="Zlmt97NIkyLn-7oZ_XTX-5">
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="_z9FHIuQY-QQkrB0wW5x-2" target="Zlmt97NIkyLn-7oZ_XTX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_z9FHIuQY-QQkrB0wW5x-2" value="&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Finding the action group that each action is confused with each other&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1238" y="5840" width="322" height="80" as="geometry" />
+        <mxCell id="_z9FHIuQY-QQkrB0wW5x-2" value="&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Finding the action groups &lt;br&gt;that each action is confused with each other&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1239" y="5840" width="402" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-1" target="Zlmt97NIkyLn-7oZ_XTX-5">
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontStyle=0" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-1" target="Zlmt97NIkyLn-7oZ_XTX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-1" value="Extracting actions that the model recognizes with higher accuracy above threshold x ( Default x=85%)" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="838" y="5720" width="320" height="80" as="geometry" />
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-1" value="Extracting the actions that the model recognizes with higher accuracy above threshold x &lt;br&gt;( Default x=85%)" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="5720" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-3" value="N groups&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(each group has 2-4 actions)" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="5960" width="320" height="80" as="geometry" />
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-3" target="Zlmt97NIkyLn-7oZ_XTX-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-5" value="HAR model based &lt;br&gt;trusted list actions" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;startSize=23;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="838" y="5840" width="320" height="80" as="geometry" />
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-3" value="N groups&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(each group has 2-4 actions)" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="5960" width="401" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-5" value="HAR model based &lt;br&gt;trusted list actions" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="5840" width="398" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-8" target="Zlmt97NIkyLn-7oZ_XTX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-8" value="Domain Expert define the feature &lt;br&gt;that can classify the action in each groups" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="6080" width="401" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-10" value="N interpreter decision tree model&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="758" y="6080" width="401" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-15" target="Zlmt97NIkyLn-7oZ_XTX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-15" value="HAR model based &lt;br&gt;trusted list actions" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="762" y="6440" width="398" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-16" target="Zlmt97NIkyLn-7oZ_XTX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-16" value="N interpreter decision tree model&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1243" y="6440" width="398" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-18" target="Zlmt97NIkyLn-7oZ_XTX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Zlmt97NIkyLn-7oZ_XTX-18" target="Zlmt97NIkyLn-7oZ_XTX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-18" value="Input data" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="6280" width="401" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zlmt97NIkyLn-7oZ_XTX-21" value="Final prediction with full explaination" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;startSize=23;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="6600" width="401" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
